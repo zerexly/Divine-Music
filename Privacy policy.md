@@ -8,10 +8,6 @@ Please read this policy carefully to understand our policies and practices regar
 
 Server IDs for server data (prefixes, music, filters, etc).
 
-User IDs to keep a record of afk, warn, mute.
-
-Few parts of message content for logging system.
-
 Our bot only gathers personally identifiable data through commands run using the bot. This information helps us provide a better user experience for all Divine Music's users.
 
 The information we collect when you vote for Divine Music on the third-party website Discord bot list
